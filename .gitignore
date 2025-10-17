@@ -1,2 +1,8 @@
 .report.json
-*.pyc
+__pycache__/__init__.cpython-311.pyc
+jobs/__pycache__/__init__.cpython-311.pyc
+jobs/branch/__pycache__/__init__.cpython-311.pyc
+jobs/branch/context/__pycache__/__init__.cpython-311.pyc
+jobs/nuts/__pycache__/__init__.cpython-311.pyc
+jobs/simple/__pycache__/__init__.cpython-311.pyc
+jobs/simple/context/__pycache__/__init__.cpython-311.pyc
